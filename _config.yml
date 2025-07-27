@@ -112,12 +112,12 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Your Name"
+Carlos:
+  name             : "Carlos ROjas"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Soy un apasionado de la economía y la tecnología."
+  location         : "Cambridge, MA"
+  email            : "contact.carlosrojas@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
